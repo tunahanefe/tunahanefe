@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tunahanefe
-- 👀 I’m interested in ...
+- 👀 I’m interested in HIS, RIS
 - 🌱 I’m currently learning MVC
 - 💞️ I’m looking to collaborate on Back-End
 - 📫 How to reach me tunahan.efe.te@gmail.com
